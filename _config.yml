@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot 1.jpg"
   name             : "Rachel Chaiser"
   pronouns         : # example: "she/her"  
   bio              : "Visiting Assistant Professor of Mathematics at Vassar College. Research interests: algebraic topology, dynamical systems, and C*-algebras."
